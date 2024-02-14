@@ -1,44 +1,9 @@
 fileFormatVersion: 2
-guid: e54e785367c9a69409da3f04209cc13e
+guid: 37176d7888569a34cbedaca0c4e3e486
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Base_Material
-    second: {fileID: 2100000, guid: 839a5cdff09334a40a93d0621649a338, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: RoadMaterial
-    second: {fileID: 2100000, guid: e2b097687e34f4546ba1e2a583a3ba12, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: SidewalkMaterial
-    second: {fileID: 2100000, guid: 9dff401f14735a34182ec845d3598ba5, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Tree_Dirt_Material
-    second: {fileID: 2100000, guid: e8436f94214c3dc4a800b2caabd3c348, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Tree_Leaves_Material
-    second: {fileID: 2100000, guid: 7db3963716df24b40a0491a39a51ea0e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Tree_Stone_Material
-    second: {fileID: 2100000, guid: 94f56da591e996641971ded065de2b99, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Tree_Wood_Material
-    second: {fileID: 2100000, guid: a6592236ff8b180468fa236071367936, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
